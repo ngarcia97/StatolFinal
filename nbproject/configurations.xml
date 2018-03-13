@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="defs" displayName="defs" projectFiles="true">
+        <itemPath>defs/Adresse.h</itemPath>
+        <itemPath>defs/Atelier.h</itemPath>
+        <itemPath>defs/C_BDD.h</itemPath>
+        <itemPath>defs/C_Capteur.h</itemPath>
+        <itemPath>defs/C_Consignes.h</itemPath>
+        <itemPath>defs/C_Informations.h</itemPath>
+        <itemPath>defs/Capteur.h</itemPath>
+        <itemPath>defs/Climat.h</itemPath>
+        <itemPath>defs/Climat.h.save</itemPath>
+        <itemPath>defs/Consignes.h</itemPath>
+        <itemPath>defs/Incident.h</itemPath>
+        <itemPath>defs/Information.h</itemPath>
+        <itemPath>defs/NatureInfo.h</itemPath>
+        <itemPath>defs/ProtocoleCapteurs.h</itemPath>
+        <itemPath>defs/TClimat.h</itemPath>
+        <itemPath>defs/Unite.h</itemPath>
+        <itemPath>defs/serialib.h</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="src" displayName="src" projectFiles="true">
+        <itemPath>src/Adedigado.cpp</itemPath>
+        <itemPath>src/Adresse.cpp</itemPath>
+        <itemPath>src/Atelier.cpp</itemPath>
+        <itemPath>src/C_BDD.cpp</itemPath>
+        <itemPath>src/C_Capteur.cpp</itemPath>
+        <itemPath>src/C_Consignes.cpp</itemPath>
+        <itemPath>src/C_Informations.cpp</itemPath>
+        <itemPath>src/Capteur.cpp</itemPath>
+        <itemPath>src/Climat.cpp</itemPath>
+        <itemPath>src/Consignes.cpp</itemPath>
+        <itemPath>src/Consignes.csv</itemPath>
+        <itemPath>src/Incident.cpp</itemPath>
+        <itemPath>src/Information.cpp</itemPath>
+        <itemPath>src/Makefile</itemPath>
+        <itemPath>src/NatureInfo.cpp</itemPath>
+        <itemPath>src/ProtocoleCapteurs.cpp</itemPath>
+        <itemPath>src/SIROOO</itemPath>
+        <itemPath>src/TClimat.cpp</itemPath>
+        <itemPath>src/TestIntegration.cpp</itemPath>
+        <itemPath>src/TestIntegration.cpp.save</itemPath>
+        <itemPath>src/Unite.cpp</itemPath>
+        <itemPath>src/Unite.cpp.save</itemPath>
+        <itemPath>src/main</itemPath>
+        <itemPath>src/main.cpp</itemPath>
+        <itemPath>src/serialib.cpp</itemPath>
+        <itemPath>src/test.cpp</itemPath>
+        <itemPath>src/testIntegrationCapteur</itemPath>
+        <itemPath>src/testIntegrationCapteurClimat</itemPath>
+        <itemPath>src/testIntegrationCapteurClimat.cpp</itemPath>
+        <itemPath>src/testIntegrationCapteurs.cpp</itemPath>
+        <itemPath>src/testIntegrationClimat.cpp</itemPath>
+        <itemPath>src/testIntegrationClimatBDD</itemPath>
+        <itemPath>src/testUnitaireCapteur</itemPath>
+        <itemPath>src/testUnitaireCapteurs.cpp</itemPath>
+        <itemPath>src/testUnitaireClimat</itemPath>
+        <itemPath>src/testUnitaireClimat.cpp</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>defs</Elem>
+    <Elem>src</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="defs/Adresse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Atelier.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_BDD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Capteur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Consignes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Informations.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Capteur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Climat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Climat.h.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Consignes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Incident.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Information.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/NatureInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/ProtocoleCapteurs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/TClimat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Unite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/serialib.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Adedigado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Adresse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Atelier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_BDD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Capteur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Consignes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Informations.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Capteur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Climat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Consignes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Consignes.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Incident.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Information.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/NatureInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/ProtocoleCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/SIROOO" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/TClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/TestIntegration.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/TestIntegration.cpp.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Unite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Unite.cpp.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/main" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/serialib.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/test.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteur" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurClimat" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurClimat.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationClimatBDD" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireCapteur" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testUnitaireClimat" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="defs/Adresse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Atelier.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_BDD.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Capteur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Consignes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/C_Informations.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Capteur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Climat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Climat.h.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Consignes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Incident.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Information.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/NatureInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/ProtocoleCapteurs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/TClimat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/Unite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defs/serialib.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Adedigado.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Adresse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Atelier.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_BDD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Capteur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Consignes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/C_Informations.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Capteur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Climat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Consignes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Consignes.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Incident.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Information.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/NatureInfo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/ProtocoleCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/SIROOO" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/TClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/TestIntegration.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/TestIntegration.cpp.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/Unite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Unite.cpp.save" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/main" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/serialib.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/test.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteur" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurClimat" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurClimat.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/testIntegrationCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testIntegrationClimatBDD" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireCapteur" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireCapteurs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/testUnitaireClimat" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/testUnitaireClimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
